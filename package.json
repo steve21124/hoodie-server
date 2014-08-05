@@ -14,7 +14,7 @@
     "couchr": "0.0.14",
     "follow": "^0.11.2",
     "hapi": "^6.2.1",
-    "hoodie": "^0.9.3",
+    "hoodie": "steve21124/hoodie.js",
     "hoodie-admin-dashboard": "^1.0.0",
     "hoodie-admin-dashboard-uikit": "^3.0.0",
     "hoodie-plugins-manager": "^0.2.6",
